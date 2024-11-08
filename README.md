@@ -1,4 +1,6 @@
-## Hi there 👋
+## Čau
+I’m currently study in Technical University Kosice (TUKE), but I wanna finish it as fast as possible lol
+I write grind, deathcrust/hardcore and proto-powerviolence, but that sounds like shit
 
 <!--
 **lekhnitsky/lekhnitsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
